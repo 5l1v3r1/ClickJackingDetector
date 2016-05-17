@@ -15,4 +15,8 @@ vulnerable or not  , also it display all other headers
 Note :404 response could not be checked as .NET throughs an exception on 404 and 
 can not receive response headers  so can not check for UI Redressing 
 
+<br />
+Appearance
+<img src='http://i.imgur.com/HOhMqLX.png' />
+
 
