@@ -1,0 +1,20 @@
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.csprojResolveAssemblyReference.cache
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.Form1.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.FrmSelMethod.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.Properties.Resources.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.csproj.GenerateResource.Cache
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\bin\Debug\ClickJacking Detector.exe
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\bin\Debug\ClickJacking Detector.pdb
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.exe
+c:\users\_gersywin_\documents\visual studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.pdb
+C:\Users\_GersyWin_\Documents\Visual Studio 2012\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.FormDever.resources
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.exe
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.pdb
+D:\Projects\ClickJacking Detector\ClickJacking Detector\bin\Debug\ClickJacking Detector.exe
+D:\Projects\ClickJacking Detector\ClickJacking Detector\bin\Debug\ClickJacking Detector.pdb
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.csprojResolveAssemblyReference.cache
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.Form1.resources
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.FormDever.resources
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.FrmSelMethod.resources
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking_Detector.Properties.Resources.resources
+D:\Projects\ClickJacking Detector\ClickJacking Detector\obj\Debug\ClickJacking Detector.csproj.GenerateResource.Cache
